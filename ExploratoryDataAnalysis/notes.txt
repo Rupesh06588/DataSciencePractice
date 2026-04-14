@@ -1,0 +1,22 @@
+1. Theory: What is EDA?
+EDA is the process of exploring data before modeling.
+It helps you:
+
+>Understand the shape of distributions (normal, skewed, bimodal).
+>Spot anomalies or outliers.
+>Compare groups (e.g., male vs female spending).
+>Identify correlations between variables.
+
+2. Key Pandas & Seaborn Functions
+
+df.describe() → summary statistics
+
+df.corr() → correlation matrix
+
+sns.histplot() → distribution plots
+
+sns.barplot() → category comparisons
+
+sns.scatterplot() → relationships between variables
+
+sns.heatmap() → visualize correlations
